@@ -3,7 +3,7 @@
 Clone da interface do Netflix desenvolvido para o Bootcamp front-end do Santander na DIO. 
 
 ## Print
-![](/img/print-netflix.jpg "Print Netflix")
+![](/img/print-netflix.png "Print Netflix")
 
 ## Tecnologias
 
